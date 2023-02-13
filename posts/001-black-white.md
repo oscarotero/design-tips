@@ -14,6 +14,7 @@ right is dark gray `#333` which looks better:
 
 ![Light background](/img/001-bg-light.png)
 
-The same for dark backgrounds. On the left, a pure black background. On the right, there is a dark gray background (`#222`).
+The same for dark backgrounds. On the left, a pure black background. On the
+right, there is a dark gray background (`#222`).
 
 ![Example with dark background](/img/001-bg-dark.png)
