@@ -10,6 +10,6 @@ in `18px` or `20px` which is an even more legible text size.
 <!-- more -->
 
 Font sizes below `16px` can be used for short texts, like labels or buttons, but
-never lower than `13.5px` (or `0.85em`).
+never smaller than `13.5px` (or `0.85em`).
 
 ![Text size](/img/002-text-size.png)
