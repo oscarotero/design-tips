@@ -1,5 +1,5 @@
 ---
-title: 001 - Don't use pure black & white for text
+title: 001 - Don't use pure black & white colors for text
 tags: [UI, color]
 ---
 
@@ -9,12 +9,18 @@ near-white colors for better results.
 
 <!-- more -->
 
-In the following image, the text on the left is pure black, and the text on the
-right is dark gray `#333` which looks better:
+<figure style="color: black; background: white;">
+  <p>This text is in pure black & white. There is too much contrast between the text color and the background color.</p>
+</figure>
 
-![Light background](/img/001-bg-light.png)
+<figure style="color: #444; background: white;">
+  <p>This text is dark gray, which looks nicer and it's easier to read, especially for long texts.</p>
+</figure>
 
-The same for dark backgrounds. On the left, a pure black background. On the
-right, there is a dark gray background (`#222`).
+<figure style="color: white; background: black;">
+  <p>The same happens with pure black backgrounds and white text. Reading long texts with this contrast is tiring.</p>
+</figure>
 
-![Example with dark background](/img/001-bg-dark.png)
+<figure style="color: #ddd; background: #222;">
+  <p>This is much better. The color of the text is light gray and the background is dark gray. The contrast is not too strong and it's easier to read.</p>
+</figure>
