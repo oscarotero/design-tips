@@ -23,8 +23,8 @@ the line height.
 </figure>
 
 <figure>
-  <p style="font-size: 36px; line-height: 1.4">
-  For large texts, we need to reduce the line height. This text has a line height of  140% (equivalent to 50.4 pixels), and it looks great again.
+  <p style="font-size: 36px; line-height: 1.5">
+  For large texts, we need to reduce the line height. This text has a line height of  150% (equivalent to 54 pixels), and it looks great again.
   </p>
 </figure>
 
