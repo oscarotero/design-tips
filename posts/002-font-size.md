@@ -26,7 +26,7 @@ never smaller than `13.5px` (or `0.85em`).
 
 <figure>
   <p style="font-size: 13.5px;">
-    This is the smaller text size recommended (13.5 pixels). Use only for copyright or similar texts.
+    This is the smaller text size you should use in the interface (13.5 pixels). Use only for copyright or similar texts.
   </p>
   <p style="font-size: 12px;">
     This is a text in 12 pixels, many people find it hard to read. Please avoid it.
