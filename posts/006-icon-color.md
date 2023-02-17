@@ -6,7 +6,8 @@ tags:
   - color
 ---
 
-If you have icons following by texts, don't use the same color for both elements, because visually it's more difficult to distinguish.
+If you have icons following by texts, don't use the same color for both
+elements, because visually it's more difficult to distinguish.
 
 <!-- more -->
 
@@ -27,7 +28,8 @@ In the following example, the icon and the text have the same color:
   </p>
 </figure>
 
-This is the same example, but the icons are a bit lighter, so it's easier for the eye to scan the icons and the text separately:
+This is the same example, but the icons are a bit lighter, so it's easier for
+the eye to scan the icons and the text separately:
 
 <figure>
   <p style="display:flex;align-items:center;gap:1em">

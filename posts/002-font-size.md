@@ -22,11 +22,11 @@ in `18px` or `20px` which is an even more legible text size.
 </figure>
 
 Font sizes below `16px` can be used for short texts, like labels or buttons, but
-never smaller than `13.5px` (or `0.85em`).
+never smaller than `14px` (or `0.875em`).
 
 <figure>
-  <p style="font-size: 13.5px;">
-    This is the smaller text size you should use in the interface (13.5 pixels). Use only for copyright or similar texts.
+  <p style="font-size: 14px;">
+    This is the smaller text size you should see in any interface (14 pixels).
   </p>
   <p style="font-size: 12px;">
     This is a text in 12 pixels, many people find it hard to read. Please avoid it.
