@@ -6,8 +6,8 @@ tags:
   - color
 ---
 
-If you have icons following by texts, don't use the same color for both
-elements, because visually it's more difficult to distinguish.
+If you have icons and texts, don't use the same color for both elements, because
+visually it's more difficult to distinguish.
 
 <!-- more -->
 
