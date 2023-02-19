@@ -35,3 +35,7 @@ so we don't have a button to submit. We use switches:
   <button role="switch" onclick="this.setAttribute('aria-checked', this.getAttribute('aria-checked') === 'true' ? 'false' : 'true')">Enable alarm</button>
   <button role="switch" onclick="this.setAttribute('aria-checked', this.getAttribute('aria-checked') === 'true' ? 'false' : 'true')">Superuser mode</button>
 </figure>
+
+## More info
+
+[¿Checkboxes o interruptores en formularios para móvil?](https://www.torresburriel.com/weblog/2018/07/27/checkboxes-o-interruptores-en-movil/)
