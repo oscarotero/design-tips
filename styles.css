@@ -46,4 +46,9 @@ main {
       margin-bottom: 0;
     }
   }
+
+  & input[type="text"],
+  & input[type="email"] {
+    background-color: white;
+  }
 }
