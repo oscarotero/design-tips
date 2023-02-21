@@ -56,3 +56,8 @@ Always include a text and/or an icon to indicate where's the error:
     </span>
   </p>
 </figure>
+
+## More info
+
+- [We Can’t Rely on Color](https://www.sitepoint.com/cant-rely-color/)
+- [Usability Tip: Don’t Rely on Color to Convey Your Message](https://uxmag.com/articles/usability-tip-dont-rely-on-color-to-convey-your-message)
