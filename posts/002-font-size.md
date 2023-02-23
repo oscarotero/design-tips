@@ -1,5 +1,5 @@
 ---
-title: 002 - Use 16px or above for the body text
+title: 002 — Use 16px or above for the body text
 tags: [UI, typography]
 ---
 

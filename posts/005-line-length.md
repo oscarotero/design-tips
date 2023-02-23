@@ -1,5 +1,5 @@
 ---
-title: 005 - Use a line length of 50-75 characters
+title: 005 — Use a line length of 50-75 characters
 tags:
   - UI
   - typography

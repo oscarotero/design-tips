@@ -1,5 +1,5 @@
 ---
-title: 004 - Reduce the line height of large texts
+title: 004 — Reduce the line height of large texts
 tags:
   - UI
   - typography

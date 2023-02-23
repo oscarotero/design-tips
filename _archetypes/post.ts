@@ -9,7 +9,7 @@ export default function (title: string) {
   return {
     path: `/posts/${number}-${slug}.md`,
     content: {
-      title: `${number} - ${title}`,
+      title: `${number} — ${title}`,
       tags: ["UI"],
       content: "Content here...",
     },

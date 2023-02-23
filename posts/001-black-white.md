@@ -1,5 +1,5 @@
 ---
-title: 001 - Don't use pure black & white colors for text
+title: 001 — Don't use pure black & white colors for text
 tags: [UI, color]
 ---
 

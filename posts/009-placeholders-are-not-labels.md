@@ -1,5 +1,5 @@
 ---
-title: 009 - Placeholders are not labels
+title: 009 — Placeholders are not labels
 tags:
   - UI
   - forms

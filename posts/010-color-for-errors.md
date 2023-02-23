@@ -1,5 +1,5 @@
 ---
-title: 010 - Don't rely on color to convey the error message
+title: 010 — Don't rely on color to convey the error message
 tags:
   - UI
   - color

@@ -1,5 +1,5 @@
 ---
-title: 006 - Use different colors for text and icons
+title: 006 — Use different colors for text and icons
 tags:
   - UI
   - icons

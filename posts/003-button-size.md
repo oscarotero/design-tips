@@ -1,5 +1,5 @@
 ---
-title: 003 - Buttons should have a minimum size of 40x40px
+title: 003 — Buttons should have a minimum size of 40x40px
 tags: [UI, button]
 ---
 

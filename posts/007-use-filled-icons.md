@@ -1,5 +1,5 @@
 ---
-title: 007 - Use filled icons when possible
+title: 007 — Use filled icons when possible
 tags:
   - UI
   - icons

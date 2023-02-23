@@ -1,5 +1,5 @@
 ---
-title: 008 - When use switch and checkbox?
+title: 008 — When use switch and checkbox?
 tags:
   - UI
   - forms
