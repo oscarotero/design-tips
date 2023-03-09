@@ -1,0 +1,26 @@
+.body {
+  & figure {
+    padding: 2em;
+    margin: 2em 0;
+    border: solid 1px var(--color-line);
+    border-radius: var(--border-radius);
+    background-color: var(--color-highlight);
+    position: relative;
+
+    & > :first-child {
+      margin-top: 0;
+    }
+    & > :last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  & input[type="text"],
+  & input[type="email"] {
+    background-color: white;
+  }
+}
+
+.button:focus {
+  outline-color: var(--color-primary);
+}

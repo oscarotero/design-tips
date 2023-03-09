@@ -1,12 +1,16 @@
 home:
-  welcome: Design tips, by Óscar
+  welcome: Design tips<br>by Óscar Otero
 
 menu_links: []
 date: Git Created
 
+extra_head: |
+  <link rel="stylesheet" href="/custom.css">
+
 metas:
   site: Design tips
-  description: Design tips and tricks
+  description: Design tips and tricks by Óscar Otero
   title: "=title"
+  image: "=image"
   twitter: "@misteroom"
   lang: en
