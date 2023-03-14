@@ -3,7 +3,6 @@ home:
 
 menu_links: []
 date: Git Created
-
 extra_head: |
   <link rel="stylesheet" href="/custom.css">
 
