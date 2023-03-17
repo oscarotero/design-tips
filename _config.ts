@@ -6,6 +6,15 @@ const site = lume({
 });
 
 site.use(blog());
-site.copy([".png", ".jpg"]);
+site.copy([".png", ".jpg", ".svg"]);
+
+site.process([".html"], (page) => {
+  const { document } = page;
+
+  const badge = document!.createElement("div");
+  badge.className = "not-by-ai";
+  badge.innerHTML = `<img src="/not-by-ai.svg" alt="Written by human">`;
+  document!.body.append(badge);
+});
 
 export default site;

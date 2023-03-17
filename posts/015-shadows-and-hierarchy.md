@@ -5,7 +5,10 @@ tags:
   - shadows
 ---
 
-Shadows in an interface should behave like shadows in real life. Elements closer to the user's point of view are more "elevated" so they should have a bigger and blurry shadow than elements away from the user, that are closer to the interface background.
+Shadows in an interface should behave like shadows in real life. Elements closer
+to the user's point of view are more "elevated" so they should have a bigger and
+blurry shadow than elements away from the user, that are closer to the interface
+background.
 
 <!--more -->
 

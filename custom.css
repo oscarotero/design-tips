@@ -24,3 +24,17 @@
 .button:focus {
   outline-color: var(--color-primary);
 }
+
+.not-by-ai {
+  padding-bottom: 2em;
+  & img {
+    display: block;
+    margin: auto;
+  }
+
+  @media (min-width: 800px) {
+    position: fixed;
+    bottom: 0;
+    right: 2em;
+  }
+}
