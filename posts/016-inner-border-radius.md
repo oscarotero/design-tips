@@ -4,7 +4,7 @@ tags:
   - UI
 ---
 
-The radius of the rounded corners (also known as `border-radius` in CSS) of
+The rounded corners (also known as `border-radius` in CSS) of
 elements inside other elements with also rounded corners should be adjusted
 taking into account the gap.
 
