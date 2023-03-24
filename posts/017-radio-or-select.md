@@ -1,8 +1,7 @@
 ---
-title: 017 — When to use radio buttons instead of selects
+title: 017 — When to use radio buttons or selects
 tags:
   - UI
-  - selects
   - forms
 ---
 
