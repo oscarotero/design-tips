@@ -10,6 +10,8 @@ available options. The `select` components allow the inclusion of several
 options in the same space, while `radio` buttons take more space but all options
 are visible.
 
+<!-- more -->
+
 ## When there are a few options
 
 The drawback of using selects is the available options are hidden, so the user
