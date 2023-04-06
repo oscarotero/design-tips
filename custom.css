@@ -22,8 +22,22 @@
   }
 }
 
+.button {
+  padding-left: 1.25em;
+  padding-right: 1.25em;
+}
 .button:focus {
   outline-color: var(--color-primary);
+}
+.button.is-secondary {
+  border: solid 1px;
+}
+.button.is-tertiary {
+  color: var(--color-dim);
+
+  &:hover {
+    background-color: var(--color-line);
+  }
 }
 
 .not-by-ai {
