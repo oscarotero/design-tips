@@ -5,7 +5,7 @@ menu_links: []
 date: Git Created
 extra_head: |
   <link rel="stylesheet" href="/custom.css">
-
+author: Óscar Otero
 metas:
   site: Design tips
   description: Design tips and tricks by Óscar Otero
