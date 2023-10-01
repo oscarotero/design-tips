@@ -1,5 +1,6 @@
 ---
 title: 005 — Use a line length of 50-75 characters
+date: 2023-02-16T20:58:28
 tags:
   - UI
   - typography

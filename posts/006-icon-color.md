@@ -1,5 +1,6 @@
 ---
 title: 006 — Use different colors for text and icons
+date: 2023-02-17T18:42:39
 tags:
   - UI
   - icons

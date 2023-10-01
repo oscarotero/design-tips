@@ -1,5 +1,6 @@
 ---
 title: 001 — Don't use pure black & white colors for text
+date: 2023-02-11T15:21:16
 tags: [UI, color]
 ---
 

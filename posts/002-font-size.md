@@ -1,5 +1,6 @@
 ---
 title: 002 — Use 16px or above for the body text
+date: 2023-02-12T11:54:59
 tags: [UI, typography]
 ---
 

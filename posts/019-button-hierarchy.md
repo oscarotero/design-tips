@@ -1,5 +1,6 @@
 ---
 title: 019 — Use only one primary button per screen.
+date: 2023-04-06T07:35:52
 tags:
   - UI
   - button

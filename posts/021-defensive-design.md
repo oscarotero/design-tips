@@ -1,5 +1,6 @@
 ---
 title: 021 — Destructive actions should be secondary
+date: 2023-05-02T16:03:16
 tags:
   - UI
 ---

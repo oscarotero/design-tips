@@ -1,5 +1,6 @@
 ---
 title: 004 — Reduce the line height of large texts
+date: 2023-02-14T16:25:32
 tags:
   - UI
   - typography

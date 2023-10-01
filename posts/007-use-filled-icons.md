@@ -1,5 +1,6 @@
 ---
 title: 007 — Use filled icons when possible
+date: 2023-02-18T19:05:09
 tags:
   - UI
   - icons
